@@ -26,14 +26,6 @@ O JardimTech é um aplicativo que visa facilitar o cuidado de suas plantas e jar
 
 Este projeto é uma oportunidade emocionante para estudantes de desenvolvimento de software. Se você deseja contribuir, sinta-se à vontade para criar pull requests, reportar problemas ou propor novas funcionalidades.
 
-## Instalação
-
-O JardimTech está disponível para download na App Store e Google Play Store. Basta procurar por "JardimTech" e começar a cuidar das suas plantas de maneira inteligente e inovadora.
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE.md). Sinta-se à vontade para usar, modificar e distribuir de acordo com os termos da licença.
-
 ---
 
 **Nota:** Este projeto foi criado como parte do projeto final da disciplina de Tecnologia em Desenvolvimento de Software. O objetivo é demonstrar como a tecnologia pode aprimorar e enriquecer nossas interações com a natureza, proporcionando uma experiência única para os amantes da jardinagem.
