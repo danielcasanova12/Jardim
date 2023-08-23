@@ -22,9 +22,6 @@ O JardimTech é um aplicativo que visa facilitar o cuidado de suas plantas e jar
 
 - **Eventos Celestiais:** Otimize a exposição das suas plantas à luz solar com base em dados astronômicos.
 
-## Contribuindo
-
-Este projeto é uma oportunidade emocionante para estudantes de desenvolvimento de software. Se você deseja contribuir, sinta-se à vontade para criar pull requests, reportar problemas ou propor novas funcionalidades.
 
 ---
 
